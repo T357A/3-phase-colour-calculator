@@ -1,4 +1,4 @@
-#To calculate the cicuit numbers colour in a 3 phase Canadian 600 volt or lower electrical system
+#To calculate the cicuit numbers colour in a 3 phase Canadian 600 volt or lower electrical system. Created by T357A.
 circuit_number = int(input("Enter your circuit number: "))
 
 colour = circuit_number % 6
